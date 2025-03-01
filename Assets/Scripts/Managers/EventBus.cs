@@ -2,5 +2,5 @@ using System;
 
 public static class EventBus
 {
-    public static Action<bool> OnAnswerChosen;
+    public static Action<int> OnAnswerChosen;
 }

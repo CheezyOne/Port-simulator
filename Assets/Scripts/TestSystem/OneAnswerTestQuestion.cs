@@ -1,49 +1,48 @@
-using System;
-using System.Collections.Generic;
-using UnityEngine;
+using System.Collections;
 
-public class OneAnswerTestQuestion : MonoBehaviour
+public class OneAnswerTestQuestion : TestQuestion
 {
-    [SerializeField] private OneAnswerPossibleAnswer _possibleAnswer;
-    [SerializeField] private List<AnswerData> _answers;
-    [SerializeField] private Transform _answersHolder;
-    private List<OneAnswerPossibleAnswer> _spawnedAnswers = new();
-
-    private void Awake()
+    protected override IEnumerator ShowAnswers()
     {
-        for (int i=0;i<_answers.Count;i++)
+        for (int i = 0; i < _answersDatas.Count; i++)
         {
-            OneAnswerPossibleAnswer newAnswer = Instantiate(_possibleAnswer, _answersHolder);
-            newAnswer.SetAnswerData(_answers[i].AnswerText, _answers[i].IsRightAnswer);
-            _spawnedAnswers.Add(newAnswer);
+            if (_answersDatas[i].IsRightAnswer)
+            {
+                if (_spawnedAnswers[i].IsChosen)
+                    TestController.Instance.AnsweredRight();
+
+                _spawnedAnswers[i].SetRightColor();
+            }
+            else
+            {
+                 _spawnedAnswers[i].SetWrongColor();
+            }
         }
+
+        yield return base.ShowAnswers();
     }
 
-    private void ShowAnswers(bool isRightAnswer)
+    private void UnCheckAnswers(int index)
     {
-        for (int i = 0; i < _answers.Count; i++)
+        for (int i = 0; i < _spawnedAnswers.Count; i++)
         {
-            if (_answers[i].IsRightAnswer)
-                _spawnedAnswers[i].SetRightColor();
-            else
-                _spawnedAnswers[i].SetWrongColor();
+            if (i == index)
+                continue;
+
+            if (_spawnedAnswers[i].IsChosen)
+            {
+                _spawnedAnswers[i].ToggleAnswer();
+            }
         }
     }
 
     private void OnEnable()
     {
-        EventBus.OnAnswerChosen += ShowAnswers;
+        EventBus.OnAnswerChosen += UnCheckAnswers;
     }
 
     private void OnDisable()
     {
-        EventBus.OnAnswerChosen -= ShowAnswers;
+        EventBus.OnAnswerChosen -= UnCheckAnswers;
     }
-}
-
-[Serializable]
-public struct AnswerData
-{
-    public bool IsRightAnswer;
-    public string AnswerText;
 }
