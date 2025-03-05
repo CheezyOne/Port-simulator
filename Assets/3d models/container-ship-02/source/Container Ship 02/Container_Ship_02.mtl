@@ -1,0 +1,382 @@
+newmtl acmat_0
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 360_F_180888381_rdtPrvoRyUt7QcsWctphVkc0C40dJdJ0.jpg
+newmtl acmat_1
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-04-02_002745.jpg
+newmtl acmat_2
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd abstract-red-blurred-background-with-dots-pattern-texture-vector.jpg
+newmtl acmat_3
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-07-11_000944.jpg
+newmtl acmat_4
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 170_etalbond_texturedfarbe_932_TRsienarosso Kopie02.jpg
+newmtl acmat_5
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 416781_1200x675_Cover_Zoom02Abc Kopie04.jpg
+newmtl acmat_6
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 124105-gold-metal-texture-background.jpg
+newmtl acmat_7
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ13R94C.jpg
+newmtl acmat_8
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ14P1S4.jpg
+newmtl acmat_9
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ14P1S4.jpg
+newmtl acmat_10
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ14P1S4.bmp
+newmtl acmat_11
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-03-26_230115.jpg
+newmtl acmat_12
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd glass2a.jpg
+newmtl acmat_13
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 20218 Kopie 2.jpg
+newmtl acmat_14
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-04-02_212248.jpg
+newmtl acmat_15
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1619198914.jpg
+newmtl acmat_16
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05 Kopie.jpg
+newmtl acmat_17
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container03.jpg
+newmtl acmat_18
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd m_mesh01.jpg
+newmtl acmat_19
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd m_mesh01.jpg
+newmtl acmat_20
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 904d13f5524019e626361d9edd66d546 Kopie.jpg
+newmtl acmat_21
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 170_etalbond_texturedfarbe_932_TRsienarosso_Kopie02.jpg
+newmtl acmat_22
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container010.jpg
+newmtl acmat_23
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05 Kopie.jpg
+newmtl acmat_24
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-140410142500.jpg
+newmtl acmat_25
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231921.jpg
+newmtl acmat_26
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Unbenannt-1.jpg
+newmtl acmat_27
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231921.jpg
+newmtl acmat_28
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_29
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_30
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ13R94C.jpg
+newmtl acmat_31
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231922.jpg
+newmtl acmat_32
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231923.jpg
+newmtl acmat_33
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-130ZQ13R94C_01.jpg
+newmtl acmat_34
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2024-08-10_231924.jpg
+newmtl acmat_35
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 170_etalbond_texturedfarbe_932_TRsienarosso_Kopie.jpg
+newmtl acmat_36
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-11-10_145527.jpg
+newmtl acmat_37
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd rot_polyantharot_5602.jpg
+newmtl acmat_38
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container.psd
+newmtl acmat_39
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05_Kopie.jpg
+newmtl acmat_40
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container04.jpg
+newmtl acmat_41
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container06.jpg
+newmtl acmat_42
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container04.jpg
+newmtl acmat_43
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container01.jpg
+newmtl acmat_44
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05.jpg
+newmtl acmat_45
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container04.jpg
+newmtl acmat_46
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05.jpg
+newmtl acmat_47
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container05.jpg
+newmtl acmat_48
+Kd 0.666667 0.662745 0.607843
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container03.jpg
+newmtl acmat_49
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd Container01.jpg
+newmtl acmat_50
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd BH-1.jpg
+newmtl acmat_51
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+newmtl acmat_52
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 1-140410142500.jpg
+newmtl acmat_53
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2023-04-02_002829.jpg
+newmtl acmat_54
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd 2022-07-24_145441 SIDRO.jpg
