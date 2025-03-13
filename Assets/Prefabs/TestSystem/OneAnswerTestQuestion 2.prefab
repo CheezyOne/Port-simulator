@@ -342,7 +342,7 @@ MonoBehaviour:
   _questionText: {fileID: 1944742476898962074}
   _questionImage: {fileID: 2297986117866433122}
   _questionSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  _question: FUCK ME BABY
+  _question: Question3
   _possibleAnswer: {fileID: 8513205128373033963, guid: 4062a6ce6c765f145aff87c4328e9182, type: 3}
   _answersHolder: {fileID: 5344066780942326701}
   _answersDatas:

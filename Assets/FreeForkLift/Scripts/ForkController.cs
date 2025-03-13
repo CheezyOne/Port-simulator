@@ -12,9 +12,8 @@ public class ForkController : MonoBehaviour {
 
     private bool mastMove = false; //Activate or deactivate the movement of the mast
 
-    // Update is called once per frame
-    private void FixedUpdate () {
-
+    private void FixedUpdate () 
+    {
         if(fork.transform.localPosition.y >= maxYmast.y && fork.transform.localPosition.y < maxY.y)
         {
             mastMove = true;
@@ -32,7 +31,6 @@ public class ForkController : MonoBehaviour {
       
         if (Input.GetKey(KeyCode.E))
         {
-           //fork.Translate(Vector3.up * speedTranslate * Time.deltaTime);
             fork.transform.localPosition = Vector3.MoveTowards(fork.transform.localPosition, maxY, speedTranslate * Time.deltaTime);
             if(mastMove)
             {
@@ -49,8 +47,6 @@ public class ForkController : MonoBehaviour {
                 mast.transform.localPosition = Vector3.MoveTowards(mast.transform.localPosition, minYmast, speedTranslate * Time.deltaTime);
 
             }
-
         }
-
     }
 }
